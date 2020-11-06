@@ -12,3 +12,10 @@ https://github.com/martinhemphill/React-Employee-Directory
 ## Heroku Link:
 
 https://react-homework-19.herokuapp.com/
+
+## Screenshots:
+
+![Alt text](Screenshots\Overview.PNG "Optional Title")
+
+![Alt text](Screenshots\Filter_1.PNG "Optional Title")
+
