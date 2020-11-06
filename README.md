@@ -17,5 +17,5 @@ https://react-homework-19.herokuapp.com/
 
 ![Image 1](Screenshots/Overview.PNG "Optional Title")
 
-![Image 2](Screenshots\Filter_1.PNG?raw=true "Optional Title")
+![Image 2](Screenshots/Filter_1.PNG?raw=true "Optional Title")
 
